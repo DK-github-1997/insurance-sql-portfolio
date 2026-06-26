@@ -2,7 +2,7 @@
   File        : 01_create_tables.sql
   Purpose     : Core schema for Agriculture & Motor Insurance domain
   Author      : <Your Name>
-  Database    : Oracle (tested on Oracle 19c) - minor tweaks needed for
+  Database    : Oracle (tested on Oracle 19c) -  minor tweaks needed for
                 MySQL / PostgreSQL / SQL Server (see notes at bottom)
 =======================================================================*/
 
